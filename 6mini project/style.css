@@ -1,0 +1,29 @@
+.new{
+    color: white;
+    margin-left: 600px;
+}
+.wy{
+    color: white;
+}
+
+img{
+    width: 1600px;
+    height: 600px;
+}
+.sp{
+    border: 1px solid gray;
+    background-image: url(https://avatars.mds.yandex.net/i?id=85fd6f9294ab8a09c33eb3b0d458e1b472c0a077-12597979-images-thumbs&n=13);
+}
+.text{
+    display: flex;
+    background-color: green;
+}
+.ff{
+    color: green;
+}
+.er{
+    color: red;
+}
+.tt{
+    color: blue;
+}

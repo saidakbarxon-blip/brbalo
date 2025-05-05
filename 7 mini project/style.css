@@ -1,0 +1,14 @@
+.fix{
+    text-align: center;
+}
+.next{
+    text-align: center;
+    margin-left: 700px;
+    border: 1px solid green;
+    border-radius: 20px;
+    background-color: green;
+    width: 80px;
+    height: 80px;
+    box-shadow: 5px 5px 5px 5px lightgreen;
+
+}
